@@ -1,0 +1,11 @@
+  .feature-responsive .graphic {
+    float: left;
+  }
+  .feature-responsive .text {
+    float: right;
+    margin-top: 60px;
+    margin-right: 20px;
+  }
+  .feature-powerful .text {
+    margin-top: 60px;
+  }

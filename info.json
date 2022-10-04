@@ -1,0 +1,210 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://flarum.org.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 6406,
+            "children": [
+                {
+                    "url": "https://flarum.org.cn/img/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/fast.png",
+                    "path": "img/fast.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/responsive.png",
+                    "path": "img/responsive.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/powerful.png",
+                    "path": "img/powerful.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/logo.svg",
+                    "path": "img/logo.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/fast.svg",
+                    "path": "img/fast.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/responsive.svg",
+                    "path": "img/responsive.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/powerful.svg",
+                    "path": "img/powerful.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/js/vender.min.js",
+                    "path": "js/vender.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/css/vender.min.css?v=0919",
+                    "path": "css/vender.min.css",
+                    "saved": true,
+                    "size": 6371,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/css/vender.600.min.css",
+                    "path": "css/vender.600.min.css",
+                    "saved": true,
+                    "size": 993,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/css/vender.1000.min.css",
+                    "path": "css/vender.1000.min.css",
+                    "saved": true,
+                    "size": 29,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/css/vender.1100.min.css",
+                    "path": "css/vender.1100.min.css",
+                    "saved": true,
+                    "size": 217,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/apple-touch-icon.png",
+                    "path": "img/apple-touch-icon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/favicon-32x32.png",
+                    "path": "img/favicon-32x32.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/android-chrome-192x192.png",
+                    "path": "img/android-chrome-192x192.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/favicon-16x16.png",
+                    "path": "img/favicon-16x16.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/safari-pinned-tab.svg",
+                    "path": "img/safari-pinned-tab.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://flarum.org.cn/img/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "flarum-org-cn-pnmotahf",
+    "info": {
+        "remark": [],
+        "title": "Flarum 中文站：优雅简洁的轻论坛",
+        "domain": "flarum.org.cn",
+        "origin": "https://flarum.org.cn",
+        "ip": "58.218.215.129",
+        "main": "index.html",
+        "url": "https://flarum.org.cn/",
+        "totalSize": "14 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://flarum.org.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://flarum.org.cn/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "Tengine",
+                "content-type": "text/html",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding, Accept-Encoding",
+                "date": "Tue, 04 Oct 2022 06:42:41 GMT",
+                "last-modified": "Mon, 01 Nov 2021 00:47:04 GMT",
+                "etag": "\"617f3908-241f\"",
+                "strict-transport-security": "max-age=31536000",
+                "ali-swift-global-savetime": "1664865761",
+                "via": "cache13.l2ea120-8[0,0,304-0,H], cache66.l2ea120-8[2,0], kunlun3.cn192[60,60,200-0,H], kunlun7.cn192[62,0]",
+                "age": "2787",
+                "x-cache": "HIT TCP_REFRESH_HIT dirn:10:871578062",
+                "x-swift-savetime": "Tue, 04 Oct 2022 07:29:08 GMT",
+                "x-swift-cachetime": "3600",
+                "timing-allow-origin": "*",
+                "eagleid": "3adad03916648685484101768e"
+            }
+        },
+        "time": {
+            "start": "2022-10-04T07:29:06.637Z",
+            "end": "2022-10-04T07:29:16.552Z"
+        }
+    },
+    "options": {
+        "url": "https://flarum.org.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}

@@ -1,0 +1,75 @@
+.container {
+    padding: 0 20px;
+}
+
+header {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+header h1 {
+    margin-bottom: 20px;
+}
+
+header h1 object {
+    max-width: 70%;
+}
+
+header p {
+    font-size: 16px;
+}
+
+.actions a {
+    display: block;
+    margin-bottom: 10px;
+    border-width: 1px;
+}
+
+h2 {
+    font-family: 'BrixSansLight', sans-serif;
+    font-size: 22px;
+}
+
+.lead {
+    font-size: 18px;
+}
+
+.feature {
+    margin-bottom: 70px;
+}
+
+.feature .text {
+    margin-top: 0 !important;
+}
+
+.feature .graphic {
+    max-width: 100%;
+    margin: 0 0 20px;
+    float: none;
+}
+
+.feature .graphic object {
+    max-width: 100%;
+}
+
+.comparison-bars .bar {
+    width: 120px;
+}
+
+.comparison-bars .bar-border {
+    padding: 1px;
+}
+
+.comparison-bars .bar-fill {
+    border-radius: 2px;
+}
+
+.tooltip {
+    border-width: 1px;
+    padding: 7px 12px 5px;
+}
+
+.tooltip:before {
+    border-width: 9px 9px 0 9px;
+    margin-left: -9px;
+}
